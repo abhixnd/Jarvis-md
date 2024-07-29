@@ -34,7 +34,7 @@ module.exports = {
   ERROR_MSG: toBool(process.env.ERROR_MSG) || true,
   WELCOME_MSG: process.env.WELCOME_MSG || "Hi &mention Welcome to &gname",
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi $mention It was Nice Seeing you",
-  MEDIA_DATA: process.env.MEDIA_DATA|| 'ʟɪꜱᴛ ᴍᴇɴᴜ;🍉𝗮𝗯𝗵𝗶𝘅𝗻𝗱🍉;https://i.imgur.com/ltPPMTh.jpeg',
+  MEDIA_DATA: process.env.MEDIA_DATA|| 'ʟɪꜱᴛ ᴍᴇɴᴜ;🍉𝗮𝗯𝗵𝗶𝘅𝗻𝗱🍉 ;https://i.imgur.com/ltPPMTh.jpeg',
   SUDO: process.env.SUDO || '917034679660,918590404292',
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || '',
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || '',
