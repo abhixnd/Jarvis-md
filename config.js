@@ -17,7 +17,7 @@ module.exports = {
   AUDIO_DATA: process.env.AUDIO_DATA || 'ʟᴏᴋɪ-xᴇʀ;ᴊᴀʀᴠɪꜱ;https://i.imgur.com/ep3UbBP.jpg',
   WARN_COUNT: process.env.WARN_COUNT || '3',
   ALIVE_DATA : process.env.ALIVE_DATA || "_*Hy &sender i am alive now*_\n\n_PLATFORM: &platform_\n_RUNTIME : &runtime_\n\n_. type alive to update your alive message_",
-  SESSION_ID: process.env.SESSION_ID || 'Jarvis_ea15_a339_6f39_0ac2_133c_478e_9561_e74c',
+  SESSION_ID: process.env.SESSION_ID || 'Jarvis_f9cc_b279_a053_3c57_a760_8270_942e_7409',
   LANG: process.env.LANG || 'EN',
   ELEVENLABS: process.env.ELEVENLABS,
   HANDLERS: process.env.HANDLER  || '.',
