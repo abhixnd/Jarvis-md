@@ -20,7 +20,7 @@ module.exports = {
   SESSION_ID: process.env.SESSION_ID || 'Jarvis_110c_f75f_0076_9eaf_709d_c4ca_1bb6_c610',
   LANG: process.env.LANG || 'EN',
   ELEVENLABS: process.env.ELEVENLABS,
-  HANDLERS: process.env.HANDLER  || '#',
+  HANDLERS: process.env.HANDLER  || ',',
   ALLWAYS_ONLINE: toBool(process.env.ALLWAYS_ONLINE || "false"),
   READ_MSG: toBool(process.env.READ_MSG || "false"),
   BRANCH: "main",
